@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`AboutView >  1`] = `
+"<div class="about">
+  <h1>Hello Vitest</h1>
+</div>"
+`;
